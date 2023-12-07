@@ -1,16 +1,14 @@
-# flutter_note_app
+# Flutter Note App
 
-A new Flutter project.
+## Description
+Notes app using Firestore Database
+Flutter 3.10.6
+Firebase
+Executable on Android and iOS
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <p>
+    <img src="assets/screenshot_1.png?raw=true" width = 37% />
+    <img src="assets/screenshot_2.png?raw=true" width = 37% />
+  </p>
+</div>

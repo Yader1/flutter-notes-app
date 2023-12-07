@@ -1,9 +1,9 @@
 # Flutter Note App
 
 ## Description
-Notes app using Firestore Database
-Flutter 3.10.6
-Firebase
+Notes app using Firestore Database <br/>
+Flutter 3.10.6 <br/>
+Firebase <br/>
 Executable on Android and iOS
 
 <div align="center">
